@@ -115,7 +115,7 @@ document.body.innerHTML = `
 
 // Simulated AI responses
 const aiResponses = {
-    "fire": "Please evacuate immediately. Call your local fire department at 911.",
+    "fire": "Please evacuate immediately. Call your local fire department at 112.",
     "flood": "Move to higher ground. Avoid walking or driving through floodwaters.",
     "earthquake": "Drop, cover, and hold on. Stay indoors until the shaking stops.",
     "heart attack": "Call 112 and start performing CPR if trained. Stay calm and wait for help.",
